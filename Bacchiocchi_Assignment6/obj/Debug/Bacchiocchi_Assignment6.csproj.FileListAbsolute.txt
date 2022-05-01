@@ -1,0 +1,6 @@
+E:\Documents\visual studio\c sharp\Bacchiocchi_Assignment6\Bacchiocchi_Assignment6\bin\Debug\Bacchiocchi_Assignment6.exe.config
+E:\Documents\visual studio\c sharp\Bacchiocchi_Assignment6\Bacchiocchi_Assignment6\bin\Debug\Bacchiocchi_Assignment6.exe
+E:\Documents\visual studio\c sharp\Bacchiocchi_Assignment6\Bacchiocchi_Assignment6\bin\Debug\Bacchiocchi_Assignment6.pdb
+E:\Documents\visual studio\c sharp\Bacchiocchi_Assignment6\Bacchiocchi_Assignment6\obj\Debug\Bacchiocchi_Assignment6.csprojAssemblyReference.cache
+E:\Documents\visual studio\c sharp\Bacchiocchi_Assignment6\Bacchiocchi_Assignment6\obj\Debug\Bacchiocchi_Assignment6.exe
+E:\Documents\visual studio\c sharp\Bacchiocchi_Assignment6\Bacchiocchi_Assignment6\obj\Debug\Bacchiocchi_Assignment6.pdb
